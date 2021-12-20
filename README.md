@@ -15,6 +15,6 @@ python Challenge_1.py
 
 Results saves into "inexpensive_loans.csv"
 
-Also user can observe usuful output on in the terminal:
+Also user can observe useful output in the terminal:
 
 ![image](https://user-images.githubusercontent.com/46632676/146722538-fc269182-accb-4602-805a-a3ccfb7c87a8.png)
